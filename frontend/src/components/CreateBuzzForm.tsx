@@ -21,8 +21,9 @@ const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
         throw new Error('Failed to create buzz');
       }
 
-      setContent(''); // Reset form fields after successful submission
+      setContent(''); 
       setAuthor('');
+      window.location.reload();
     } catch (error) {
       console.error('Error creating buzz:', error);
       // Optionally, display an error message to the user

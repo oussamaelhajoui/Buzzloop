@@ -2809,6 +2809,11 @@ lucide-react@^0.359.0:
   resolved "https://registry.npmjs.org/lucide-react/-/lucide-react-0.359.0.tgz"
   integrity sha512-bxVL+rM/wacjpT0BKShA6r5IIKb6LCRg+ltFG9pnnIwaRX8kK3hq8v5JwMpT7RC6XeqB5cSaaV6GapPWWmtliw==
 
+lucide@^0.359.0:
+  version "0.359.0"
+  resolved "https://registry.yarnpkg.com/lucide/-/lucide-0.359.0.tgz#da46605b3f42005ba6b7c2a198b1ab4bec17677b"
+  integrity sha512-dnWnZRSqDVzz9oAcuIIvlfDrtSwDc2sVwF9zO5dPryQ+uLdS00XQJrprsC687nPC0dp4z1znBrtdRyb9rcBZ9w==
+
 merge-stream@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/merge-stream/-/merge-stream-2.0.0.tgz"
