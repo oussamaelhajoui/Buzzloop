@@ -1,6 +1,6 @@
 # Buzzloop
 
-Buzzloop is a project aimed at developing a scalable and efficient platform for [describe project purpose here].
+Buzzloop is a project aimed at developing a scalable and efficient platform.
 
 ## Features
 
